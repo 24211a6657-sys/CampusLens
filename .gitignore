@@ -1,0 +1,17 @@
+@"
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.env
+
+app_backup.py
+app_backup_before_correction.py
+app_v1_backup.py
+
+test2.png
+test3.png
+test4.jpeg
+test_notice.jpeg
+"@ | Set-Content .gitignore
